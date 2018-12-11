@@ -1,0 +1,93 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lisrodriguez.me" resolutions="1x" timestamp="1544557322738">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="322250680" ref="portfolio:index:about:contact"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="portfolio:index:about:contact"/>
+    <file name="portfolio.css" crc="4229028954" ref="portfolio"/>
+    <file name="nomq_portfolio.css" crc="4051410684" ref="portfolio"/>
+    <file name="index.css" crc="4230291028" ref="index"/>
+    <file name="about.css" crc="261798912" ref="about"/>
+    <file name="contact.css" crc="3797640765" ref="contact"/>
+  </folder>
+  <folder name="assets">
+    <file name="lis-resume-.pdf" crc="3812113645" seo="true" mt="1543954582000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contact:portfolio:about"/>
+    <file name="museutils.js" crc="3803043152" ref="index:contact:portfolio:about"/>
+    <file name="whatinput.js" crc="86476730" ref="index:contact:portfolio:about"/>
+    <file name="museconfig.js" crc="380897831" ref="index:contact:portfolio:about"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:contact:portfolio:about"/>
+    <file name="require.js" crc="4157109226" ref="index:contact:portfolio:about"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="portfolio"/>
+  </folder>
+  <folder name="images">
+    <file name="parata logo-crop-u156.png" crc="82169432" seo="true" ref="index:contact:portfolio:about">
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:contact:portfolio:about"/>
+    <file name="iconmonstr-facebook-1-240.png" crc="4014123878" seo="true" ref="index:contact:portfolio:about">
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="iconmonstr-instagram-11-240.png" crc="127323965" seo="true" ref="index:contact:portfolio:about">
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="iconmonstr-linkedin-1-240.png" crc="4113131190" seo="true" ref="index:contact:portfolio:about">
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="iconmonstr-twitter-1-240 (1).png" crc="121838501" seo="true" ref="index:contact:portfolio:about">
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="lis resume _page_1.jpg" crc="3961858237" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="sugarcanelogo.gif" crc="487336468" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="logo-letras-.gif" crc="3885397996" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="brochure template _page_1.jpg" crc="469451053" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="brochure template _page_2.jpg" crc="3794598931" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="sugarcanelogo-crop-u233.png" crc="135898140" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="logo-letras--crop-u242.png" crc="3847600191" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="brochure template _page_1-crop-u251.jpg" crc="515047426" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="brochure template _page_2-crop-u261.jpg" crc="3883266094" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3897947411" seo="true" mt="1542748366939" redirect="true"/>
+  <file name="contact.html" crc="3972951406" seo="true" mt="1543955291072" redirect="true"/>
+  <file name="portfolio.html" crc="3978626488" seo="true" mt="1542748324091" redirect="true"/>
+  <file name="about.html" crc="386212531" seo="true" mt="1542748483634" redirect="true"/>
+</manifest>
